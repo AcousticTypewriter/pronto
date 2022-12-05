@@ -1,0 +1,9 @@
+{
+  "name": "bun-replit",
+
+  "dependencies": {
+    "bun-types": "latest",
+    "typescript-language-server": "latest"
+  }
+  
+}
